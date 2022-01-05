@@ -1,0 +1,2 @@
+# impala
+impala-thrift-demo
